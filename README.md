@@ -70,7 +70,7 @@ Aplikasi ini dirancang untuk mengatasi masalah antrian panjang dan penumpukan pe
 
 Program dijalankan pada Command Line Interface (CLI) atau terminal. 
 
-Modul yang dibutuhkan untuk menjalankan program: os, random, time, tabulate.
+Modul yang dibutuhkan untuk menjalankan program: os, pwinput, random, time, tabulate.
 
 
 
