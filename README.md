@@ -1,16 +1,12 @@
+###### **Aplikasi Apotek Rumah Sakit *(Hospital Pharmacy System)***
+
+
+
 **Overview**
 
 
 
-Aplikasi Apotek Rumah Sakit *(Hospital Pharmacy System)*
-
-
-
 Aplikasi ini dirancang untuk mengatasi masalah antrian panjang dan penumpukan pekerjaan di apotek rumah sakit. Dengan mengintegrasikan proses pembuatan resep oleh dokter/suster dengan data persediaan obat secara *real-time* di apotek rumah sakit. Aplikasi ini bertujuan untuk mempercepat alur pelayanan obat, meningkatkan efisiensi kerja apoteker, dan memberikan informasi ketersediaan obat lebih awal kepada dokter/pasien.
-
-
-
-&nbsp;
 
 
 
