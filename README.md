@@ -10,7 +10,7 @@ Aplikasi ini dirancang untuk mengatasi masalah antrian panjang dan penumpukan pe
 
 
 
-**Tujuan** 
+**Tujuan**
 
 
 
@@ -30,7 +30,7 @@ Aplikasi ini dirancang untuk mengatasi masalah antrian panjang dan penumpukan pe
 
 
 
-**Client** 
+**Client**
 
 1\. Rumah sakit.
 
@@ -64,7 +64,7 @@ Aplikasi ini dirancang untuk mengatasi masalah antrian panjang dan penumpukan pe
 
 **Cara Menjalankan**
 
-Program dijalankan pada Command Line Interface (CLI) atau terminal. 
+Program dijalankan pada Command Line Interface (CLI) atau terminal.
 
 Modul yang dibutuhkan untuk menjalankan program: os, pwinput, random, time, tabulate.
 
@@ -74,7 +74,4 @@ Modul yang dibutuhkan untuk menjalankan program: os, pwinput, random, time, tabu
 
 * Membuat fitur berupa analisis obat apa saja yang paling sering diresepkan dalam suatu rentang Waktu
 * Informasi pada obat bisa diperinci dengan expired atau tanggal pembelian
-* Aplikasi bisa dikembangkan dengan Pendaftaran Pasien dan menyimpan rekam medis pasien tersebut.
-
-
-
+* Aplikasi bisa dikembangkan dengan fitur pendaftaran pasien dan menyimpan rekam medis pasien tersebut.
